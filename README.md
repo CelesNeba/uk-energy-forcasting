@@ -81,13 +81,13 @@ Run these notebooks in order:
 
 Open the Power BI file in the `powerbi/` folder:
 
-```
+
 uk_energy_forecast_dashboard.pbix
-```
+
 
 Refresh data and interact with slicers and visuals.
 
----
+
 
 ## 7. Tools & Technologies Used
 
@@ -97,7 +97,7 @@ Refresh data and interact with slicers and visuals.
 - **Power BI**
 - **Git & GitHub**
 
----
+
 
 ## 8. Dataset
 
@@ -114,29 +114,32 @@ Refresh data and interact with slicers and visuals.
 uk‑energy‑forcasting/
 
 │
-├─ data/                  # Cleaned datasets and exported CSV for Power BI
-│    └─ uk_energy_forecast_powerbi.csv
+├─ data/  # Cleaned datasets and exported CSV for Power BI
+│    
+└─ uk_energy_forecast_powerbi.csv
 │
 
-├─ notebooks/             # Jupyter notebooks for ETL and forecasting
+├─ notebooks/  # Jupyter notebooks for ETL and forecasting
+
 │    └─ data_cleaning.ipynb
+
 │    └─ forecast_notebook.ipynb
 │
 
-├─ sql/                   # SQL scripts for database creation
+├─ sql/  # SQL scripts for database creation
 │
 
-├─ powerbi/               # Power BI dashboard files
+├─ powerbi/   # Power BI dashboard files
 │    └─ uk_energy_forecast_dashboard.pbix
 │
 
-├─ docs/                  # Additional documentation if needed
+├─ docs/ # Additional documentation if needed
 │
 
-└─ README.md              # Project overview and instructions
-```
+└─ README.md  # Project overview and instructions
 
----
+
+
 
 ## Author
 
@@ -144,6 +147,7 @@ uk‑energy‑forcasting/
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
 
 
