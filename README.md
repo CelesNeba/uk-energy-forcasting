@@ -9,7 +9,7 @@ This project is an **end-to-end data engineering and forecasting pipeline** that
 
 Energy demand forecasting is essential for utilities, policymakers, and businesses to plan capacity, manage costs, and optimize resource allocation. The ability to forecast electricity consumption at a regional level helps decision-makers anticipate future demand trends and plan accordingly.
 
----
+
 
 ## 3. Business questions
 
@@ -20,7 +20,7 @@ This project aims to answer the following:
 - What trends and seasonal patterns are present in the historical data?
 - How can we represent forecast uncertainty effectively?
 
----
+
 
 ## 4. Project goal
 
@@ -31,7 +31,7 @@ Build a **professional forecasting pipeline** that:
 3. Forecasts future consumption using Prophet time series models
 4. Visualizes results through an interactive Power BI dashboard
 
----
+
 
 ## 5. Expected outcome
 
@@ -43,7 +43,7 @@ By the end of this project, you should see:
 - Confidence intervals (`yhat_lower`, `yhat_upper`)
 - A Power BI dashboard for interactive exploration
 
----
+
 
 ## 6. How to Run
 
@@ -69,7 +69,7 @@ Open the notebooks folder in Jupyter Notebook:
 
 cd notebooks
 jupyter notebook
-```
+
 
 Run these notebooks in order:
 
@@ -97,8 +97,6 @@ Refresh data and interact with slicers and visuals.
 - **Power BI**
 - **Git & GitHub**
 
-
-
 ## 8. Dataset
 
 - **Source:** UK Government Open Data (Regionally‑reported electricity consumption)
@@ -106,11 +104,10 @@ Refresh data and interact with slicers and visuals.
 - **Coverage:** 2005‑2024 (varies by region)
 - **Final Files:** Cleaned and stored in `data/`
 
----
 
 ## 9. Project Structure
 
-```
+
 uk‑energy‑forcasting/
 
 │
@@ -147,6 +144,7 @@ uk‑energy‑forcasting/
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
 
 
