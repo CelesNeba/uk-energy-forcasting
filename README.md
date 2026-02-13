@@ -89,7 +89,7 @@ Refresh data and interact with slicers and visuals.
 
 
 
-## 7. Tools & Technologies Used
+## 7. Tools & technologies used
 
 - **Python** (pandas, Prophet, mysql‑connector, SQLAlchemy)
 - **Jupyter Notebook**
@@ -144,6 +144,7 @@ uk‑energy‑forcasting/
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
 
 
