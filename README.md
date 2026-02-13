@@ -52,7 +52,7 @@ By the end of this project, you should see:
 
 git clone https://github.com/CelesNeba/uk‑energy‑forcasting.git
 cd uk‑energy‑forcasting
-```
+
 
 ### Prepare the Environment
 
@@ -60,7 +60,7 @@ Install required Python packages:
 
 
 pip install pandas mysql‑connector‑python prophet sqlalchemy pymysql
-```
+
 
 ### 1. Open and Run notebooks
 
@@ -137,4 +137,5 @@ uk‑energy‑forcasting/
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
