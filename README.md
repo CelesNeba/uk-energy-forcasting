@@ -73,7 +73,8 @@ jupyter notebook
 
 Run these notebooks in order:
 
-1. `data_cleaning.ipynb` – for data cleaning and preprocessing  
+1. data_cleaning.ipynb – for data cleaning and preprocessing  
+
 2. `forecast_notebook.ipynb` – for Prophet forecasting
 
 ### 2. Load Forecast to Power BI
@@ -111,21 +112,27 @@ Refresh data and interact with slicers and visuals.
 
 ```
 uk‑energy‑forcasting/
+
 │
 ├─ data/                  # Cleaned datasets and exported CSV for Power BI
 │    └─ uk_energy_forecast_powerbi.csv
 │
+
 ├─ notebooks/             # Jupyter notebooks for ETL and forecasting
 │    └─ data_cleaning.ipynb
 │    └─ forecast_notebook.ipynb
 │
+
 ├─ sql/                   # SQL scripts for database creation
 │
+
 ├─ powerbi/               # Power BI dashboard files
 │    └─ uk_energy_forecast_dashboard.pbix
 │
+
 ├─ docs/                  # Additional documentation if needed
 │
+
 └─ README.md              # Project overview and instructions
 ```
 
@@ -137,5 +144,6 @@ uk‑energy‑forcasting/
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
 
