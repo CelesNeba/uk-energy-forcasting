@@ -1,4 +1,4 @@
-# UK electricity consumption forecasting project
+# UK electricity consumption forecasting 
 
 ## 1. Project overview
 
@@ -163,6 +163,7 @@ The UK electricity consumption forecast  projects high electricity consumption, 
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
 
 
