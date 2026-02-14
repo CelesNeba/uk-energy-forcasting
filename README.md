@@ -137,6 +137,25 @@ uk‑energy‑forcasting/
 
 
 
+## UK Energy Dashboard Screenshot
+
+This is the dashboard screenshot of the UK energy analysis.
+
+![UK Energy Dashboard](https://github.com/CelesNeba/uk-energy-forcasting/blob/main/uk-energy%20dashboard%20screenshot.PNG)
+
+This dashboard provides insights into electricity consumption and forecasting in the UK
+
+
+
+*   The full code and data for this project can be found in the repository folders.
+
+
+
+
+## My recommendation to stakeholders:
+The UK electricity consumption forecast  projects high electricity consumption, particularly with a peak forecast. To effectively manage this demand, I recommend that stakeholders prioritize infrastructure modernization. This includes investments in grid upgrades, smart grid technologies, renewable energy integration, and energy storage solutions to ensure efficient, reliable, and sustainable electricity delivery across the UK
+
+
 
 ## Author
 
@@ -144,6 +163,7 @@ uk‑energy‑forcasting/
 
 **About the author:**  
 I am a data engineer and analyst with experience in building fully‑integrated data solutions, including data cleaning, database management, forecasting, and business intelligence visualization. This project demonstrates a complete production‑style data workflow from raw data to interactive dashboards.
+
 
 
 
